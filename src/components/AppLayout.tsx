@@ -686,7 +686,7 @@ const AppLayout: React.FC = () => {
             <div className="text-blue-400">
               <SnowflakeIcon />
             </div>
-            <span className="text-white font-bold text-xl">Lake Chelan Winterfest</span>
+            <span className="text-white font-bold text-xl">Central Nebraska Home and Builders Show</span>
           </div>
           <div className="flex items-center gap-4">
             <button
@@ -731,7 +731,7 @@ const AppLayout: React.FC = () => {
         <div className="relative max-w-7xl mx-auto px-4 text-center">
           <div className="inline-flex items-center gap-2 bg-blue-500/20 text-blue-300 px-4 py-2 rounded-full text-sm font-medium mb-6">
             <CalendarIcon />
-            January 16-18, 2026
+            January 23-25, 2026
           </div>
           <h1 className="text-5xl md:text-7xl font-bold text-white mb-6">
             2026 Lake Chelan
@@ -740,13 +740,13 @@ const AppLayout: React.FC = () => {
             </span>
           </h1>
           <p className="text-xl text-blue-200 max-w-2xl mx-auto mb-8">
-            Join us for the most magical winter celebration in Washington State!
+            Join us for the most magical winter celebration in Central Nebraska!
             Register your vendor booth today.
           </p>
           <div className="flex flex-wrap items-center justify-center gap-6 text-white/80">
             <div className="flex items-center gap-2">
               <LocationIcon />
-              <span>102 East Johnson Avenue, Chelan, WA 98816</span>
+              <span>Fonner Park Campus, Grand Island, NE 68801</span>
             </div>
           </div>
         </div>
@@ -859,7 +859,7 @@ const AppLayout: React.FC = () => {
                 </div>
 
                 <p className="text-gray-600 mb-6">
-                  Thank you for registering for Lake Chelan Winterfest 2026!
+                  Thank you for registering for Central Nebraska Home and Builders Show 2026!
                 </p>
                 <div className="bg-amber-50 border border-amber-200 rounded-xl p-6 mb-6 text-left">
                   <h4 className="font-bold text-amber-800 mb-2">Next Steps:</h4>
@@ -1332,10 +1332,10 @@ const AppLayout: React.FC = () => {
                 <div className="text-blue-400">
                   <SnowflakeIcon />
                 </div>
-                <span className="text-white font-bold text-xl">Lake Chelan Winterfest</span>
+                <span className="text-white font-bold text-xl">Central Nebraska Home and Builders Show</span>
               </div>
               <p className="text-gray-400">
-                Join us for the most magical winter celebration in Washington State!
+                Join us for the most magical winter celebration in Central Nebraska!
               </p>
             </div>
             <div>
@@ -1343,7 +1343,7 @@ const AppLayout: React.FC = () => {
               <ul className="space-y-2 text-gray-400">
                 <li className="flex items-center gap-2">
                   <CalendarIcon />
-                  January 16-18, 2026
+                  January 23-25, 2026
                 </li>
                 <li className="flex items-center gap-2">
                   <LocationIcon />
@@ -1363,7 +1363,7 @@ const AppLayout: React.FC = () => {
             </div>
           </div>
           <div className="border-t border-white/10 pt-8 text-center text-gray-500 text-sm">
-            <p>&copy; 2026 Lake Chelan Winterfest. All rights reserved.</p>
+            <p>&copy; 2026 Central Nebraska Home and Builders Show. All rights reserved.</p>
           </div>
         </div>
       </footer>
