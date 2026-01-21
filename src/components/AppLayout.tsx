@@ -1357,7 +1357,7 @@ const AppLayout: React.FC = () => {
               <ul className="space-y-2 text-gray-400">
                 <li className="flex items-center gap-2">
                   <EmailIcon />
-                  CentralNebraska@email.com
+                  CentralNebraska@email.com /831 221-8866
                 </li>
               </ul>
             </div>
